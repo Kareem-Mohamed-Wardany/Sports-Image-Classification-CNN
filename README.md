@@ -4,7 +4,7 @@
 <p>Images should be classified to what sport do they belong to using two known CNN Architectures</p>
 <br>
 <h1>DataSet</h1>
-<h3>Dataset can be downloaded from here <a href="https://drive.google.com/file/d/1s07aL-7nvhO8ESJy_uTCZJMF5lw5LAGK/view" target="_blank">DOWNLOAD</a></h3>
+<h3>The Complete Dataset can be downloaded from here <a href="https://drive.google.com/file/d/1s07aL-7nvhO8ESJy_uTCZJMF5lw5LAGK/view" target="_blank">DOWNLOAD</a></h3>
 <h4>This folder consists of two main subfolders:</h4>
 <p>Train : contains 1681 images. The label is in the image name. Image format is a mix between png and jpg</p>
 <p>Test: 688 images without labels all jpg</p>
@@ -26,7 +26,10 @@
 <br>
 <h1>Implemented Architectures</h1>
 <h3>AlexNet Architecture</h3>
+<h4>AlexNet model can be downloaded from here <a href="https://drive.google.com/file/d/1-gjjmjCjFsvpcdn311GweTP9fTGB9zxE/view?usp=sharing" target="_blank">AlexNet</a></h3>
 <img src="alexnet.png" alt="AlexNet Architecture" width="500" height="600">
 <br>
 <h3>VGG16 Architecture</h3>
-<img src="vgg16.png" alt="AlexNet Architecture" width="500" height="600">
+<h4>VGG16 model can be downloaded from here <a href="
+https://drive.google.com/file/d/1--v6nGaHheTr1326OmtGLV55Zvo2Z8kp/view?usp=sharing" target="_blank">VGG16</a></h3>
+<img src="vgg16.png" alt="VGG16 Architecture" width="500" height="600">
