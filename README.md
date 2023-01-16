@@ -4,7 +4,7 @@
 <p>Images should be classified to what sport do they belong to using two known CNN Architectures</p>
 <br>
 <h1>DataSet</h1>
-<h3>dataset can be downloaded from here <a href="https://drive.google.com/file/d/1s07aL-7nvhO8ESJy_uTCZJMF5lw5LAGK/view">DOWNLOAD</a></h3>
+<h3>Dataset can be downloaded from here <a href="https://drive.google.com/file/d/1s07aL-7nvhO8ESJy_uTCZJMF5lw5LAGK/view" target="_blank">DOWNLOAD</a></h3>
 <h4>This folder consists of two main subfolders:</h4>
 <p>Train : contains 1681 images. The label is in the image name. Image format is a mix between png and jpg</p>
 <p>Test: 688 images without labels all jpg</p>
