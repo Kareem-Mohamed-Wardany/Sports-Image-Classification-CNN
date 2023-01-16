@@ -26,10 +26,7 @@
 <br>
 <h1>Implemented Architectures</h1>
 <h3>AlexNet Architecture</h3>
-<h4>AlexNet model can be downloaded from here <a href="https://drive.google.com/file/d/1-gjjmjCjFsvpcdn311GweTP9fTGB9zxE/view?usp=sharing" target="_blank">AlexNet</a></h3>
 <img src="alexnet.png" alt="AlexNet Architecture" width="500" height="600">
 <br>
 <h3>VGG16 Architecture</h3>
-<h4>VGG16 model can be downloaded from here <a href="
-https://drive.google.com/file/d/1--v6nGaHheTr1326OmtGLV55Zvo2Z8kp/view?usp=sharing" target="_blank">VGG16</a></h3>
 <img src="vgg16.png" alt="VGG16 Architecture" width="500" height="600">
