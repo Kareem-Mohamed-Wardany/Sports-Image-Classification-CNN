@@ -23,7 +23,10 @@
 <p>image_name,label</p>
 <p>0.jpg,4</p>
 <p>1.jpg,0</p>
-
-
-
-
+<br>
+<h1>Implemented Architectures</h1>
+<h3>AlexNet Architecture</h3>
+<img src="alexnet.png" alt="AlexNet Architecture" width="500" height="600">
+<br>
+<h3>VGG16 Architecture</h3>
+<img src="vgg16.png" alt="AlexNet Architecture" width="500" height="600">
